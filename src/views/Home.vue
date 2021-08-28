@@ -13,6 +13,7 @@
             <h5>Since 2005</h5>
             <h1>Textilery Creating The Best <span>Textile</span> Solutions</h1>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco</p>
+            <button type="button" class="btn create-btn">CV yaratmağa başla</button>
           </div>
 
         </div>
@@ -27,6 +28,7 @@
               <h5>Since 2006</h5>
               <h1>Textilery Creating The Best <span>Textile</span> Solutions</h1>
               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco</p>
+              <button type="button" class="btn create-btn">CV yaratmağa başla</button>
             </div>
           </div>
 
@@ -242,6 +244,11 @@ html {
 }
 .about-content ul li {
   padding-bottom: 15px;
+}
+.create-btn {
+  background-color: cadetblue;
+  font-weight: bold;
+  color: #fff;
 }
 
 </style>

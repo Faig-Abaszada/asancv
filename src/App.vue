@@ -10,6 +10,7 @@
         </button>
         <div class="collapse navbar-collapse justify-content-end" id="navbarSupportedContent">
           <ul class="navbar-nav text-right">
+            <router-link class="btn create-btn" to="/createcv">CV yarat</router-link>
             <li class="nav-item">
               <router-link to="/" class="nav-link active" aria-current="page">Ana Səhifə</router-link>
             </li>
